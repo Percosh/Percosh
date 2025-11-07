@@ -20,7 +20,7 @@ and **OLED / LCD display interfaces** using communication protocols like **I2C /
 | Project | Description |
 |--------|-------------|
 | **[stm32-parking-assist-system](https://github.com/Percosh/stm32-parking-assist-system)** | Parking assistant using ultrasonic sensor + buzzer + OLED |
-| **[stm32-servo-angle-display-control](https://github.com/Percosh/stm32-servo-angle-display-control)** | Servo angle controlled via potentiometer + OLED visualization |
+| **[STM32-Servo-Angle-Display-Control-ADC-PWM-OLED-](https://github.com/Percosh/STM32-Servo-Angle-Display-Control-ADC-PWM-OLED-)** | Servo angle controlled via potentiometer + OLED visualization |
 | **[stm32-auto-night-light](https://github.com/Percosh/stm32-auto-night-light)** | Automatic night light system based on ambient light |
 | **[stm32-servo-button-control](https://github.com/Percosh/stm32-servo-button-control)** | Servo angle controlled via buttons |
 
